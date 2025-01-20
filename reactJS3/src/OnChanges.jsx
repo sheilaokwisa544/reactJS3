@@ -1,7 +1,7 @@
 import React, {useState}from 'react';
 
 
-
+reactJS3
 function OnChanges (){
     const [name,setname]= useState("");
     const [quantity, setquantity]= useState(); 
